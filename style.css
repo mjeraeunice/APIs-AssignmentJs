@@ -100,9 +100,9 @@ nav {
     background-color: rgb(224, 175, 224);
     color: white;
   }
-  #trusted{font-size: 49px;margin-left:-100%;margin-bottom: 10%;}
+  #trusted{font-size: 49px;margin-left:-75%;margin-bottom: 10%;}
   #prev{width: 57%;margin-left:47%;height: 55vh;margin-top: 2%;}
-  #lorem{margin-left:-65%;}
+  #lorem{margin-left:-60%;}
  #control{margin-left: 290px;}
  .find{
   margin-left: 10%;
@@ -139,10 +139,10 @@ font-size: 20px;
   display:flex;
   flex-wrap: wrap;
 justify-content: space-evenly;
-background-color: rgb(207, 204, 204);
+background-color: rgb(207, 204, 204);height: 20%;
 }
 #products{border: solid rgb(197, 209, 197);border-radius: 5px;margin-bottom: 2%;text-align: center;}
-#products img{width: 330px;}
+#products img{width: 330px;height: 50%;}
 .footer{
   background-color:black;
   background-size: cover;
